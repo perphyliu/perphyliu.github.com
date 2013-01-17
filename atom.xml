@@ -4,7 +4,7 @@
   <title><![CDATA[Pengfei's blog]]></title>
   <link href="http://perphyliu.github.com/atom.xml" rel="self"/>
   <link href="http://perphyliu.github.com/"/>
-  <updated>2013-01-17T18:52:03+08:00</updated>
+  <updated>2013-01-17T19:41:59+08:00</updated>
   <id>http://perphyliu.github.com/</id>
   <author>
     <name><![CDATA[Pengfei Liu]]></name>
@@ -27,14 +27,9 @@
     <link href="http://perphyliu.github.com/blog/2012/12/04/explain-algorithm-in-latex/"/>
     <updated>2012-12-04T20:49:00+08:00</updated>
     <id>http://perphyliu.github.com/blog/2012/12/04/explain-algorithm-in-latex</id>
-    <content type="html"><![CDATA[<p>The package &#8220;algorithm2e&#8221; can be used. Please refer to http://www.tug.org/texlive/Contents/live/texmf-dist/doc/latex/algorithm2e/algorithm2e.pdf</p>
+    <content type="html"><![CDATA[<p>The package &#8220;algorithm2e&#8221; can be used. Please refer to <a href="http://www.tug.org/texlive/Contents/live/texmf-dist/doc/latex/algorithm2e/algorithm2e.pdf">http://www.tug.org/texlive/Contents/live/texmf-dist/doc/latex/algorithm2e/algorithm2e.pdf</a>.</p>
 
-<p>Another way is:
-$$
-\usepackage{algorithm}
-\usepackage{algorithmicx}
-\usepackage{algpseudocode}
-$$</p>
+<p>Another way is:<code>\usepackage{algorithm,algorithmicx,algpseudocode}</code></p>
 ]]></content>
   </entry>
   
@@ -43,7 +38,7 @@ $$</p>
     <link href="http://perphyliu.github.com/blog/2012/11/30/create-poster-in-latex/"/>
     <updated>2012-11-30T22:14:00+08:00</updated>
     <id>http://perphyliu.github.com/blog/2012/11/30/create-poster-in-latex</id>
-    <content type="html"><![CDATA[<p>A beautiful template can be downloaded from http://www.brian-amberg.de/uni/poster/.</p>
+    <content type="html"><![CDATA[<p>A beautiful template can be downloaded from <a href="http://www.brian-amberg.de/uni/poster/">http://www.brian-amberg.de/uni/poster/</a>.</p>
 ]]></content>
   </entry>
   
