@@ -6,6 +6,4 @@ comments: true
 categories: Latex 
 ---
 
-A beautiful template can be downloaded from http://www.brian-amberg.de/uni/poster/.
-
-
+A beautiful template can be downloaded from <http://www.brian-amberg.de/uni/poster/>.
