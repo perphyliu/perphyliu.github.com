@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Pengfei's blog]]></title>
+  <link href="http://perphyliu.github.com/atom.xml" rel="self"/>
+  <link href="http://perphyliu.github.com/"/>
+  <updated>2013-01-17T18:52:03+08:00</updated>
+  <id>http://perphyliu.github.com/</id>
+  <author>
+    <name><![CDATA[Pengfei Liu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Term Begins]]></title>
+    <link href="http://perphyliu.github.com/blog/2013/01/14/new-term-begins/"/>
+    <updated>2013-01-14T23:15:00+08:00</updated>
+    <id>http://perphyliu.github.com/blog/2013/01/14/new-term-begins</id>
+    <content type="html"><![CDATA[<p>开学第一天！加油！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Explain Algorithm in Latex]]></title>
+    <link href="http://perphyliu.github.com/blog/2012/12/04/explain-algorithm-in-latex/"/>
+    <updated>2012-12-04T20:49:00+08:00</updated>
+    <id>http://perphyliu.github.com/blog/2012/12/04/explain-algorithm-in-latex</id>
+    <content type="html"><![CDATA[<p>The package &#8220;algorithm2e&#8221; can be used. Please refer to http://www.tug.org/texlive/Contents/live/texmf-dist/doc/latex/algorithm2e/algorithm2e.pdf</p>
+
+<p>Another way is:
+$$
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+$$</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Create poster in Latex]]></title>
+    <link href="http://perphyliu.github.com/blog/2012/11/30/create-poster-in-latex/"/>
+    <updated>2012-11-30T22:14:00+08:00</updated>
+    <id>http://perphyliu.github.com/blog/2012/11/30/create-poster-in-latex</id>
+    <content type="html"><![CDATA[<p>A beautiful template can be downloaded from http://www.brian-amberg.de/uni/poster/.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://perphyliu.github.com/blog/2012/11/30/hello-world/"/>
+    <updated>2012-11-30T20:32:00+08:00</updated>
+    <id>http://perphyliu.github.com/blog/2012/11/30/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World! This is a test post for Octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>
