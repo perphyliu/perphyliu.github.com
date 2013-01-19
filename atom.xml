@@ -4,7 +4,7 @@
   <title><![CDATA[Pengfei's blog]]></title>
   <link href="http://perphyliu.github.com/atom.xml" rel="self"/>
   <link href="http://perphyliu.github.com/"/>
-  <updated>2013-01-17T20:01:32+08:00</updated>
+  <updated>2013-01-19T17:52:48+08:00</updated>
   <id>http://perphyliu.github.com/</id>
   <author>
     <name><![CDATA[Pengfei Liu]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[试用prestashop]]></title>
+    <link href="http://perphyliu.github.com/blog/2013/01/19/prestashop/"/>
+    <updated>2013-01-19T17:33:00+08:00</updated>
+    <id>http://perphyliu.github.com/blog/2013/01/19/prestashop</id>
+    <content type="html"><![CDATA[<h3>安装篇</h3>
+
+<h3>配置篇</h3>
+
+<h3>运营篇</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Term Begins]]></title>
